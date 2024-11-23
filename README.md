@@ -4,6 +4,12 @@ An all-in-one solution to streamline **Inventory Management**, **Financial Track
 
 ---
 
+## 🌐 Live Demo  
+Experience the power of the ERP system firsthand with the live demo:  
+[**Live Demo**](https://erp-sysartx.netlify.app/)
+
+---
+
 ## 🌟 Features  
 
 ### 🛠 Inventory Management  
@@ -73,4 +79,4 @@ Explore cutting-edge services designed for modern businesses:
 
 ---
 
-Take your business operations to the next level with this comprehensive ERP system!  
+Take your business operations to the next level with this comprehensive ERP system!
